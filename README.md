@@ -1,10 +1,17 @@
-# Class_Praticals_proj
-Yo Here You Will Get All Projects Done In Class Praticals
+# Welcome Everyone 
 
-Projects Will Be Updated At 11.00pm after The Praticals Are Done In Class
+*Here You Will Get Source Code Every Practical Done In Class. This Is* **Just A Demo Code** *These Source Code Can Help You In Writing Your Practical Project*
 
-(Disclaimer) !!
-Dont Copy this code as it is You Might Scolded By Ma'am 
-This Is For Only To Help 
+### Upload Timing 
+*Files Will Be Uploaded With In Few Hours After The Practicals are Done*
+**Timing :- 8.00pm to 9.00pm** *At This Time Files Will Be Uploaded*
+*You Will Be Infromed In Whatsapp When Uploaded :)*
 
+### Disclaimer !!!
+
+***Dont Copy Exact Code For Here Or Else Ma'am Might Scold You***
+
+
+
+## HAVE A NICE DAY GUYS :)
 
