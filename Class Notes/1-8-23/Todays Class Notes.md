@@ -81,4 +81,4 @@ Python Fundamental (Class notes)
 - 'hello how are you"
 - "$", '4", "@@"
 
-**In Python Both Single Character Or Multiple Character Enclosed IN Quotes Such As "KV", "kv", " * ", "+" Are Treated As Same **
+**In Python Both Single Character Or Multiple Character Enclosed IN Quotes Such As "KV", "kv", " * ", "+" Are Treated As Same**
