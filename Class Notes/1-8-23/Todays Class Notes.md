@@ -9,8 +9,11 @@ Python Fundamental (Class notes)
 **Is A Set Of Valid Characters That python Can Recognize. A Character Represents Letter, Digits or any symbol. Python Support Unicode Encoding Standard Following Are The python Character Set**
 
 *-> Letters = A To Z, a to z*
+
 *-> Digits = 0 - 9*
+
 *-> Special Symbol :- Space, +, -, *, /, (),, @, #, %, &, {}, [], ;, :, ", ', <, >*
+
 *->  Other Character :- python process all ASCII and unicode as a part of data as literal*
 
 ## Tokens 
