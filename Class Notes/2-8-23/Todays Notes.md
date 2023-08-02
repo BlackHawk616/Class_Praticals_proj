@@ -6,7 +6,7 @@
 
 ## List Of Escape Characters 
 | Escape Sequence | What It Does |
-|--|--|--|--|
+|--|--|
 | \\\ | Back Slash |
 |\\'|Single Quote|
 |\\" | Double Quotes
